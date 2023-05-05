@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iitpranata
 - 👀 I’m interested in Web Programming
 - 🌱 I’m currently learning Laravel
-- 📫 How to reach me @iitpranata INSTAGRAM
+- 📫 How to reach me Instagram @iitpranata
 
 ### Github Statistic
 <p align="left">
